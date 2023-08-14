@@ -1,0 +1,14 @@
+.about {
+    margin: 0;
+    margin-top: 6vh;
+    margin-bottom: 2vh;
+}
+
+.about_text_area {
+    display: flex;
+    justify-content: center;
+}
+
+.about_text {
+    width: 40%;
+}

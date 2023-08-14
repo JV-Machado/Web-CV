@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #a6d4de;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    margin: 0;
+    margin-top: 10vh;
+    margin-bottom: 2vh;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h3 {
+    margin: 0;
+    margin-top: 10vh;
+    font-family: 'Maven Pro', sans-serif;
+}
+span {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+li{
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.arrow {
+    background-image: url('../images/arrow_drop_down.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 3vh;
+    opacity: 0.5;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+}

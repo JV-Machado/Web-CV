@@ -1,0 +1,24 @@
+.skills_area {
+    display: flex;
+    justify-content: center;
+}
+
+.skills_position {
+    width: 45%;
+    display: grid; 
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto;
+    justify-content: space-around;
+    grid-gap: 1vh;    
+}
+
+.skills {
+    height: 14vh;
+    width: 8.5vw;
+    border-radius: 50%;
+    background-color: #7283ba;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
