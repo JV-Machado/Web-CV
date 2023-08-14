@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/%7BWeb-CV%7D/static/css/main.317a7386.css",
+    "main.js": "/%7BWeb-CV%7D/static/js/main.7e9dcce9.js",
+    "static/media/big_mart_img.png": "/%7BWeb-CV%7D/static/media/big_mart_img.ec635c8007727a84b5be.png",
+    "static/media/crud_img.png": "/%7BWeb-CV%7D/static/media/crud_img.3cafb25b131732fc6ab7.png",
+    "static/media/image4.png": "/%7BWeb-CV%7D/static/media/image4.dced8347210daf7485b6.png",
+    "static/media/customer_churn_img.jpg": "/%7BWeb-CV%7D/static/media/customer_churn_img.5c64c20d71697a14cc71.jpg",
+    "static/media/nba_img.jpg": "/%7BWeb-CV%7D/static/media/nba_img.86bb5a5ad3adacaa3206.jpg",
+    "static/media/chess_img.jpg": "/%7BWeb-CV%7D/static/media/chess_img.349eafbfcf805c044a95.jpg",
+    "index.html": "/%7BWeb-CV%7D/index.html",
+    "main.317a7386.css.map": "/%7BWeb-CV%7D/static/css/main.317a7386.css.map",
+    "main.7e9dcce9.js.map": "/%7BWeb-CV%7D/static/js/main.7e9dcce9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317a7386.css",
+    "static/js/main.7e9dcce9.js"
+  ]
+}
